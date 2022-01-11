@@ -3,4 +3,4 @@ function square(num, num2) {
 }
 
 
-export {square};
+module.export;
