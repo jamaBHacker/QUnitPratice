@@ -1,0 +1,15 @@
+{
+  "name": "qunitpratice",
+  "version": "1.0.0",
+  "main": "test.js",
+  "scripts": {
+    "test": "qunit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "qunit": "^2.17.2"
+  },
+  "description": ""
+}
